@@ -1,6 +1,7 @@
 import speech_recognition
 import speech_recognition as speech
 import serial
+from time import sleep
 try:
     ser = serial.Serial()
         ser.baudrate = 9600
@@ -51,7 +52,7 @@ for n in floorlist():
 
 for n in floorlist():
     ser.write(floorlist(n))
-
+    sleep(0.05)
 
 
 

@@ -1,0 +1,6 @@
+Condo is a modular system which can be applied onto conventional lift systems in a building without much modification. 
+It’s a system designed to enable speech-based control and operation of a normal lift system. The system is designed to be very affordable at the same time it’s extremely flexible, it can be set up for a 2 floor building or to a 200 floor building with equal ease.
+There are 2 main parts of this system.
+1. The electronic control module: contains a speech recognition system and the control unit for the floor selection servo motors. 
+2. Floor selection servo mechanism: consists of modular blocks (like Lego) which can be arranged and installed onto an existing control panel of a lift system. These blocks are of two types; one which structural connect other blocks to each other and two the blocks which hold the servo motors for pressing the buttons on already existing lift control panel. 
+Provided more access to the lift’s circuitry, we can eliminate altogether the servos and the whole 2nd part of this system, part 1 can be directly wired up to the lift’s system. It should be an easy fix. 
